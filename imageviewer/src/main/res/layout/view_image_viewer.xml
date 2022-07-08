@@ -45,6 +45,12 @@
                 android:layout_height="match_parent"
                 tools:ignore="ContentDescription"/>
 
+            <VideoView
+                android:id="@+id/transitionVideoView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+
+
         </FrameLayout>
 
         <com.stfalcon.imageviewer.common.pager.MultiTouchViewPager
